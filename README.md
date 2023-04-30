@@ -1,4 +1,5 @@
 ![TcUnit logo](https://github.com/tcunit/TcUnit/blob/master/img/tcunit-logo.png)
+[![Build](https://github.com/Zeugwerk/TcUnit/actions/workflows/build.yml/badge.svg)](https://github.com/Zeugwerk/TcUnit/actions/workflows/build.yml)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TcUnit/TcUnit/graphs/commit-activity)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/tcunit/TcUnit/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/TcUnit/TcUnit/pulls)

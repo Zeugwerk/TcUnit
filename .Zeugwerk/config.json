@@ -1,0 +1,34 @@
+{
+  "fileversion": 1,
+  "solution": "TcUnit.sln",
+  "projects": [
+    {
+      "name": "TcUnit",
+      "plcs": [
+        {
+          "version": "1.2.1.0",
+          "name": "TcUnit",
+          "type": "Library",
+          "frameworks": {},
+          "references": {
+			"TC3.1": [
+              "Base Interfaces=*",
+              "SysDir=*",
+			  "SysFile=*",
+              "Tc2_Standard=*",
+              "Tc2_System=*",
+              "Tc2_Utilities=*"
+            ]
+          },
+          "repositories": [],
+          "bindings": {},
+          "patches": {
+            "platform": {},
+            "argument": {},
+            "license": {}
+          }
+        }
+      ]
+    }
+  ]
+}

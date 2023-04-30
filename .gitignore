@@ -3,6 +3,9 @@
 #
 # Recommended: VisualStudio.gitignore
 
+# Zeugwerk files
+.Zeugwerk/libraries/
+
 # TwinCAT files
 *.tpy
 *.tclrs
